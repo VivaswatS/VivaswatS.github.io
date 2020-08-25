@@ -1,19 +1,16 @@
 # Site settings
-title: Tyler Kent
-header-img: img/cap1.jpg
-email: tyler.kent@mail.utoronto.ca
-description: "Personal site for Tyler Kent"
+title: Vivaswat Shastry
+#header-img: img/cap1.jpg
+email: vivaswat@uchicago.edu
+description: "Academic site for Vivaswat Shastry"
 baseurl: ""
-url: "http://tvkent.github.io"
-twitter_username: tylervkent
-github_username:  tvkent
-
-# Google Analytics
-google_tracking_id: UA-81468422-1
+url: "http://vivaswats.github.io"
+twitter_username: VivaswatShastry
+github_username:  VivaswatS
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-paginate: 5
+paginate: 4
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 gems: [jekyll-paginate, jekyll-feed]
