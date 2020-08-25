@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-header-img: "img/rosie-1.jpg"
+header-img: "img/glaciernp.jpg"
 ---
 
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
-	<img src="/img/tyler2.jpg" width="450" alt="Tyler Kent"/>
+	<img src="/img/bighorn.gif" width="450" alt="Tyler Kent"/>
 </div>
 
 I'm currently a first year PhD student in the [Committee on Genetics, Genomics and Systems Biology](https://ggsb.uchicago.edu) at The University of Chicago, studying population genetics. I am fascinated by the biological variation present around us, and am interested in using novel computational and statistical techniques to understand the forces behind this variation. Outside of school, I enjoy making people laugh and playing football (the *real* kind).  
