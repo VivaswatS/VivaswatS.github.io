@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-header-img: "img/glaciernp.jpg"
+header-img: "img/medbow.jpg"
 ---
 
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
