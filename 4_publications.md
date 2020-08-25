@@ -1,20 +1,21 @@
 ---
 layout: page
-title: "Publications"
-header-img: "img/greenhouse.jpg"
+title: "Outreach"
+header-img: "img/rockymtn.jpg"
 ---
 
-Paywall-free PDFs for papers are available at the links below.
+### Academic
 
-Kryvokhyzha D\*, Salcedo A\*, Eriksson MC, Duan T, Tawari N, Chen J, Guerrina M, Kreiner JM, __Kent TV__, Lagercrantz U, Stinchcombe JR, Glémin S, Wright SI,  Lascoux M (2019) [Parental legacy, demography, and admixture influenced the evolution of the two subgenomes of the tetraploid _Capsella bursa-pastoris_ (Brassicaceae)](https://paperpile.com/shared/BcxE1S) _PLoS Genetics_
+Member of the [UWyo Data Science Center](https://microcollaborative.atlassian.net/wiki/spaces/DSC/overview): helped other researchers write scripts for data wrangling and analysis
 
-__Kent TV__\*, Uzunović J\*, and Wright SI. (2017) [Coevolution of Recombination and Transposable Elements](https://paperpile.com/shared/wp7CoH) _Philosophical Transactions of the Royal Society B_
+Undergraduate assistant with [ESP4T](http://www.uwyo.edu/esp4t/index.html): developed Arduino and Raspberry Pi modules in engineering and the sciences for use in high-school classrooms
 
+Intern at the [Advanced Research Computing Center](https://www.uwyo.edu/arcc/): conducted workshops on high performance computing topics for novice users
 
-Sas C, Müller F, Kappel C, __Kent TV__, Wright SI, Hilker M, Lenhard M (2016) [Repeated Inactivation of the First Committed Enzyme Underlies the Loss of Benzaldehyde Emission after the Selfing Transition in _Capsella_](https://paperpile.com/shared/BalPLB) _Current Biology_
+### Community
 
+Recording Secretary for the Tau Beta Pi Wyoming Alpha chapter (2017-2018)
 
-Durvasula A\*, Hoffman P\*, __Kent TV__, Liu C, Kono T, Morrell P, Ross-Ibarra J (2016) [ANGSD-wrapper: utilities for analyzing next generation sequencing data.](https://paperpile.com/shared/Wo6q1m) _Molecular Ecology Resources_
+Secretary for the International Students' Association at UWyo (2016-2017)
 
-
-\* these authors contributed equally
+Vice-President of the Indian Students' Organization at UWyo (2015-2016)
