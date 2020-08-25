@@ -11,27 +11,21 @@ ___
 ### Education  
 
 PhD, Committe on Genetics, Genomics and Systems Biology, University of Chicago (2020-present)
-
 Advisor: [John Novembre](http://jnpopgen.org)  
 
 MS, Botany, University of Wyoming (2018-2020)
-
 Advisor: [Alex Buerkle](http://uwyo.edu/buerkle)
 
 BS, Electrical Engineering, University of Wyoming (2014-2017)
-
 Minor in Computational Science
-
 Advisor: [Suresh Muknahallipatna](http://www.uwyo.edu/electrical/faculty-staff/suresh-muknahallipatna/)
 
 ### Publications
 
 Harrison JG, Calder WJ, __Shastry V__, Buerkle CA (2019)
-
 Dirichlet‐multinomial modelling outperforms alternatives for analysis of microbiome and other ecological count data (published in Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/711317v3))
 
 __Shastry V__, Adams PE, Lindtke D, Mandeville EG, Parchman TL, Gompert Z, Buerkle CA (2020)
-
 Model-based genotype and ancestry estimation for potential hybrids with mixed-ploidy (in review at Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.31.231514v1))
 
 ### Software
