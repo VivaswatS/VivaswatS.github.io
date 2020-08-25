@@ -8,11 +8,6 @@ header-img: "img/rosie-1.jpg"
 	<img src="/img/tyler2.jpg" width="450" alt="Tyler Kent"/>
 </div>
 
+I'm currently a first year PhD student in the [Committee on Genetics, Genomics and Systems Biology](https://ggsb.uchicago.edu) at The University of Chicago, studying population genetics. I am fascinated by the biological variation present around us, and am interested in using novel computational and statistical techniques to understand the forces behind this variation. Outside of school, I enjoy making people laugh and playing football (the *real* kind).  
 
-I'm currently a Ph.D. candidate in the Ecology and Evolutionary Biology department at the University of Toronto, under the supervision of [Stephen Wright](http://wright.eeb.utoronto.ca).
-I started in 2015, working on my thesis on the evolution of mutation, selection, and recombination following major transitions in the Brassicaceae, as well as several projects involving introgression in the *Capsella* genus.  
-
-I received my B.S. in Genetics and Genomics with a minor in Statistics from the University of California, Davis in 2015.
-There I worked in the [Ross-Ibarra lab](http://www.rilab.org) contributing to research on genome size evolution, [scripts](https://github.com/mojaveazure/angsd-wrapper) to improve population genomic software, and crop-wild introgression in *Oryza*.
-
-I am also a Dumpling and Happy Hour Associate in the [Stinchcombe Lab](https://stinchcombe.eeb.utoronto.ca/?page_id=143).
+I received my Bachelor's in Electrical Engineering with a minor in Computational Science from the University of Wyoming in 2017, where I worked on parallelizing computer vision algorithms for NVIDIA GPUs. Right after, I joined the [Buerkle lab](https://uwyo.edu/buerkle) to pursue my Master's in Botany, where I worked on extending a genotype and ancestry estimation model for mixed-ploidy species using genotype-likleihoods. 
