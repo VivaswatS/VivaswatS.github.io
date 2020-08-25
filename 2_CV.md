@@ -1,42 +1,34 @@
 ---
 layout: page
 title: "CV"
-header-img: "img/edin.jpg"
+header-img: "img/yellowstone.jpg"
 ---
 
-My full CV can be found here <a href="/docs/cv.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.   
+My full CV can be found here <a href="/docs/CV_vshastry-2.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, and a short form is below.   
 
 ___
 
 ### Education  
 
-Ph.D., Ecology and Evolutionary Biology, University of Toronto 2015-present  
-Advisor: [Stephen Wright](https://wright.eeb.utoronto.ca)  
+PhD, Committe on Genetics, Genomics and Systems Biology, University of Chicago 2020-present  
+Advisor: [John Novembre](http://jnpopgen.org)  
 
-B.S., Genetics and Genomics, University of California, Davis    (2015)  
-Minor in Statistics  
-Advisor: [Jeff Ross-Ibarra](https://rilab.og)
+MS, Botany, University of Wyoming 2018-2020
+Advisor: [Alex Buerkle](http://uwyo.edu/buerkle)
 
-### Presentations
+BS, Electrical Engineering, University of Wyoming 2014-2017
+Minor in Computational Science
+Advisor: [Suresh Muknahallipatna](http://www.uwyo.edu/electrical/faculty-staff/suresh-muknahallipatna/)
 
-__Kent TV__, Platts A, Wright SI, and the BMAP Consortium (2019)
-Conserved sequence evolution and polyploidy in 32 Brassicales genomes. Poster at SMBE, Manchester, England
+### Publications
 
-__Kent TV__, Platts A, Wright SI, and the BMAP Consortium (2019)
-Genome Evolution After Whole Genome Duplication in 32 Brassicales Species: Ghosts of Polyploidy Past. Talk at the Atwood Colloquium in Ecology and Evolutionary Biology, Toronto ON
+Harrison JG, Calder WJ, __Shastry V__, Buerkle CA (2019)
+Dirichlet‐multinomial modelling outperforms alternatives for analysis of microbiome and other ecological count data (published in Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/711317v3))
 
-__Kent TV__, Platts A, Choi J, Wright SI, and the BMAP Consortium (2017, 2018)
-Genome Evolution After Whole Genome Duplication in 32 Brassicales Species. Talk at the Second Joint Congress on Evolution (2018, Montpellier, France). Poster at Midwest PopGen (2017, East Lansing, MI) and SMBE (2017, Austin, TX)
-
-__Kent TV__ and Wright SI	(2016)
-Mutation load in a selfing allotetraploid. Talk at EvSex16, Tempe AZ
-
-__Kent TV__ and Wright SI	(2016)  
-How does mating system affect linked selection in Capsella? Poster at The Allied Genetics Conference, Orlando FL
-
-Durvasula A, __Kent TV__, Bhadra-Lobo S, Ross-Ibarra J	(2014)  
-ANGSD-wrapper: scripts to streamline and visualize NGS population genetics analysis [Poster](docs/awposter.pdf) at BAPG XI meeting, UC Davis
+__Shastry V__, Adams PE, Lindtke D, Mandeville EG, Parchman TL, Gompert Z, Buerkle CA (2020)
+Model-based genotype and ancestry estimation for potential hybrids with mixed-ploidy (in review at Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.31.231514v1))
 
 ### Software
 
-[ANGSD-wrapper](https://github.com/ANGSD-wrapper/angsd-wrapper): scripts for analyzing next generation sequencing data using the program [ANGSD](http://popgen.dk/wiki/index.php/ANGSD).
+[entropy](https://bitbucket.org/buerklelab/mixedploidy-entropy/src/master/): genotype and ancestry estimation for mixed-ploidy, installable through [source](https://bitbucket.org/buerklelab/mixedploidy-entropy/src/master/) or as a [conda package](https://anaconda.org/bioconda/popgen-entropy)
+[CNVRG](https://rdrr.io/github/JHarrisonEcoEvo/CNVRG/): R package for a Dirichlet-Multinomal model to quantify differential abundance in microbial count data
