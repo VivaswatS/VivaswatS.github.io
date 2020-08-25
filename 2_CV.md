@@ -31,4 +31,5 @@ Model-based genotype and ancestry estimation for potential hybrids with mixed-pl
 ### Software
 
 [entropy](https://bitbucket.org/buerklelab/mixedploidy-entropy/src/master/): genotype and ancestry estimation for mixed-ploidy, installable through [source](https://bitbucket.org/buerklelab/mixedploidy-entropy/src/master/) or as a [conda package](https://anaconda.org/bioconda/popgen-entropy)
+
 [CNVRG](https://rdrr.io/github/JHarrisonEcoEvo/CNVRG/): R package for a Dirichlet-Multinomal model to quantify differential abundance in microbial count data
