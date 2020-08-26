@@ -19,7 +19,7 @@ With these in mind, we set out to run the analysis using traditional population 
 
 #### Estimating genotype and ancestry in hybrids of mixed-ploidy 
 
-As part of my MS thesis, I worked on extending a hierarchical Bayesian model presented in [Gompert et al, 2014](https://cpb-us-e1.wpmucdn.com/wp.txstate.edu/dist/a/171/files/2013/05/gompert14.pdf) to run with polyploid species. The model uses genotype-likelihood data to estimates parameters like genotype and ancestry, similar to the [Structure](https://web.stanford.edu/group/pritchardlab/structure.html) software, with application to low- to medium-coverage sequencing data. The software is written in C++ with the use of GSL libraries for random sampling and HDF5 for efficient storage. Using this model, we were able to better estimate ancestry in a mixed-ploidy hybrid zone of *Arabadopsis arenosa* in Europe. 
+As part of my MS thesis, I worked on extending a hierarchical Bayesian model presented in [Gompert et al, 2014](https://cpb-us-e1.wpmucdn.com/wp.txstate.edu/dist/a/171/files/2013/05/gompert14.pdf) to run with polyploid species. The model uses genotype-likelihood data to estimate parameters like genotype and ancestry, similar to the [Structure](https://web.stanford.edu/group/pritchardlab/structure.html) software, with application to low- to medium-coverage sequencing data. The software is written in C++ with the use of GSL libraries for random sampling and HDF5 for efficient storage. Using this model, we were able to better estimate ancestry in a mixed-ploidy hybrid zone of *Arabadopsis arenosa* in Europe. 
 
 #### Modeling differential abundance testing in microbial count data
 
