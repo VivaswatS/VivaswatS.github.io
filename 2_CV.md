@@ -23,7 +23,7 @@ Advisor: [Suresh Muknahallipatna](http://www.uwyo.edu/electrical/faculty-staff/s
 ### Publications
 
 Harrison JG, Calder WJ, __Shastry V__, Buerkle CA (2019)  
-Dirichlet‐multinomial modelling outperforms alternatives for analysis of microbiome and other ecological count data (published in Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/711317v3))
+Dirichlet‐Multinomial modelling outperforms alternatives for analysis of microbiome and other ecological count data (published in Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/711317v3))
 
 __Shastry V__, Adams PE, Lindtke D, Mandeville EG, Parchman TL, Gompert Z, Buerkle CA (2020)  
 Model-based genotype and ancestry estimation for potential hybrids with mixed-ploidy (in review at Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.31.231514v1))
