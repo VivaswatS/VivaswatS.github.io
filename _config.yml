@@ -7,6 +7,7 @@ baseurl: ""
 url: "http://vivaswats.github.io"
 twitter_username: VivaswatShastry
 github_username:  VivaswatS
+gscholar_username: vivshastry
 
 # Build settings
 markdown: kramdown
