@@ -9,10 +9,11 @@ header-img: "img/brycecanyon.jpg"
 
 #### Quantifying genetic diversity of *Wolbachia* in *Lycaeides* populations
 
-*Wolbachia* is an endosymbiotic bacteria that is found in a majority of all insect species and its infections leads to a variety of detrimental phenotypic effects to the population biology of its hosts. In this study, we used GBS data from 2388 butterfly individuals from 109 populations across the United States to answer three main questions:  
+*Wolbachia* is an endosymbiotic bacteria that is found in a majority of all insect species and its infection leads to a variety of detrimental phenotypic effects to the population biology of its hosts. In this study, we used GBS data from 2388 butterfly individuals from 109 populations across the United States to answer three main questions:  
 1. Can we detect *Wolbachia* infection from host genomes *in-silico* through bioinformatic approches?  
 2. What is the extent to which the bacteria has integrated into the nuclear genome of its host i.e., how big are the NUMTs?  
 3. Are the patterns in genetic diversity of *Wolbachia* expected based on the genetics of the host? If not, how are they different?  
+
 With these in mind, we set out to run the analysis using traditional population genetics approaches with modifications to accommodate for the nature of this bacteria. 
 
 ### Previous 
