@@ -11,7 +11,7 @@ ___
 ### Education  
 
 PhD, Committe on Genetics, Genomics and Systems Biology, University of Chicago (2020-present)  
-Advisor: [John Novembre](http://jnpopgen.org)  
+Advisor: [Jeremy Berg](http://jjbpopgen.org)  
 
 MS, Botany, University of Wyoming (2018-2020)  
 Advisor: [Alex Buerkle](http://uwyo.edu/buerkle)
