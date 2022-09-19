@@ -29,7 +29,7 @@ __Shastry V__, Adams PE, Lindtke D, Mandeville EG, Parchman TL, Gompert Z, Buerk
 Model-based genotype and ancestry estimation for potential hybrids with mixed-ploidy (published in Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.31.231514v2))
 
 __Shastry V__, Bell K, Buerkle CA, Fordyce J, Forister M, Gompter Z, Lebeis S, Lucas L, Marion Z, Nice C (2022)
-A continental-scale survey of _Wolbachia_ infections in blue butterflies reveals evidence of interspecific transfer and invasion dynamics (under review at Molecular Ecology, [preprint](https://www.authorea.com/doi/full/10.22541/au.164703040.01856976/v1))
+A continental-scale survey of _Wolbachia_ infections in blue butterflies reveals evidence of interspecific transfer and invasion dynamics (published in G3:Genes|Genomes|Genetics, [preprint](https://www.authorea.com/doi/full/10.22541/au.164703040.01856976/v1))
 
 ### Software
 
