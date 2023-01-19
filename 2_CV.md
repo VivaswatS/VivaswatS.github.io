@@ -31,6 +31,8 @@ Model-based genotype and ancestry estimation for potential hybrids with mixed-pl
 __Shastry V__, Bell K, Buerkle CA, Fordyce J, Forister M, Gompter Z, Lebeis S, Lucas L, Marion Z, Nice C (2022)
 A continental-scale survey of _Wolbachia_ infections in blue butterflies reveals evidence of interspecific transfer and invasion dynamics (published in G3:Genes|Genomes|Genetics, [preprint](https://www.authorea.com/doi/full/10.22541/au.164703040.01856976/v1))
 
+Li Z, Rasic M, Kwan M, Sepulveda M, McIntosh C, __V. Shastry__, Chen L, Finn P, Perkins D, Alegre ML. Oral administration of the commensal _Alistipes onderdonkii_ prolongs allograft survival (published in American Journal of Transplantation; [paper](https://doi.org/10.1016/j.ajt.2022.11.011))
+
 ### Software
 
 [entropy](https://bitbucket.org/buerklelab/mixedploidy-entropy/src/master/): genotype and ancestry estimation for mixed-ploidy, installable through [source](https://bitbucket.org/buerklelab/mixedploidy-entropy/src/master/) or as a [conda package](https://anaconda.org/bioconda/popgen-entropy)
