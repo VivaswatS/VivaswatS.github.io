@@ -6,13 +6,15 @@ header-img: "img/rockymtn.jpg"
 
 ### Academic
 
-Member of the UChicago computational biology outreach group: involved in developing lesson plans for introducing computational biology to middle- and high-schoolers around the Chicagoland area
+Member of the [UChicago HG/GGSB DEI Committee](https://hg-dei.bsd.uchicago.edu/) (2022-present)
 
-Member of the [UWyo Data Science Center](https://microcollaborative.atlassian.net/wiki/spaces/DSC/overview): helped other researchers write scripts for data wrangling and analysis
+Member of the UChicago computational biology outreach group: involved in developing lesson plans for introducing computational biology to middle- and high-schoolers around the Chicagoland area (2022-present)
 
-Undergraduate assistant with [ESP4T](http://www.uwyo.edu/esp4t/index.html): developed Arduino and Raspberry Pi modules in engineering and the sciences for use in high-school classrooms
+Member of the [UWyo Data Science Center](https://microcollaborative.atlassian.net/wiki/spaces/DSC/overview): helped other researchers write scripts for data wrangling and analysis (2018-2020)
 
-Intern at the [Advanced Research Computing Center](https://www.uwyo.edu/arcc/): conducted workshops on high performance computing topics for novice users
+Undergraduate assistant with [ESP4T](http://www.uwyo.edu/esp4t/index.html): developed Arduino and Raspberry Pi modules in engineering and the sciences for use in high-school classrooms (2015-2017)
+
+Intern at the [Advanced Research Computing Center](https://www.uwyo.edu/arcc/): conducted workshops on high performance computing topics for novice users (2016-2017)
 
 ### Community
 
