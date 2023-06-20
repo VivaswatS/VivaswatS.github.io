@@ -15,6 +15,8 @@ header-img: "img/brycecanyon.jpg"
 
 (empirical/methods development) As part of a summer rotation, I was involved in incorporating long-distance migration events into the existing [feems](https://github.com/NovembreLab/feems) software from the Novembre lab. This involved adding long range edges (prompted by deviations to the fit) to a graph of migration rates inferred over the populations in 2-dimensional space. This was prompted by an empirical analysis of ~300 Afro-Eurasian populations (~4k individuals) in which we find long-distance migration events from Madagascar and Papuan populations. Coincidentally, we also found that signals of archaic admixture could be captured via the proposed method in simplistic simulations. But before we can celebrate, we need to validate these findings using parallel methods of inquiry. We are also currently in the process of testing this framework with more simulations to make it more robust to spurious signals in the data. 
 
+Poster for Evolution 2023 can be found here <a href="/docs/Evolution_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>. 
+
 ### Previous 
 
 #### Estimating genotype and ancestry in hybrids of mixed-ploidy 
