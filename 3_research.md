@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 description: "evolutionary and population genetics"
-header-img: "img/brycecanyon.jpg"
+header-img: "img/received_1325138571544423.jpeg"
 ---
 
 ### Ongoing
@@ -10,6 +10,8 @@ header-img: "img/brycecanyon.jpg"
 #### Improving DFE estimation with paired data of allele frequency and allele age
 
 (theoretical/simulations) Estimating the fitness effect of de-novo mutations is an important problem in population and evolutionary genetics. The accurate estimation of the distribution of fitness effects (DFE) is crucial in understanding a broad variety of processes, from selection shaping genetic diversity in natural populations to the evolution of complex traits in the human population. Typically, DFE estimation is done using the allele frequency information from the site frequency spectrum (SFS), but we propose using paired data of allele age and allele frequency as this gives us more information about the trajectory and selection pressure on the *de-novo* mutation. We find that using this paired data helps us estimate selection coefficients in simulated data with slightly higher certainty than using allele frequency alone, but only in some cases. More insights to be had on this front... 
+
+Poster for ProbGen 2023 can be found here  <a href="/docs/ProbGen_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>. 
 
 #### Incorporating long-distance migration events onto existing migration surfaces
 
