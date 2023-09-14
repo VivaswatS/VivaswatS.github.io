@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-header-img: "img/yellowstone.jpg"
+header-img: "img/IMG_20210410_155857.jpg"
 ---
 
 My full CV can be found here <a href="/docs/CV_vshastry-2.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, with a brief form below.   
