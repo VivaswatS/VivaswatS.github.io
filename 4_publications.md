@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Outreach"
-header-img: "img/rockymtn.jpg"
+header-img: "img/IMG_20210220_134057.jpg"
 ---
 
 ### Academic
 
 Member of the [UChicago HG/GGSB DEI Committee](https://hg-dei.bsd.uchicago.edu/) (2022-present)
 
-Member of the UChicago computational biology outreach group: involved in developing lesson plans for introducing computational biology to middle- and high-schoolers around the Chicagoland area (2022-present)
+Member of the UChicago computational biology outreach group: involved in developing lesson plans for introducing computational biology to middle- and high-schoolers around the Chicagoland area (2022-2023)
 
 Member of the [UWyo Data Science Center](https://microcollaborative.atlassian.net/wiki/spaces/DSC/overview): helped other researchers write scripts for data wrangling and analysis (2018-2020)
 
@@ -18,7 +18,7 @@ Intern at the [Advanced Research Computing Center](https://www.uwyo.edu/arcc/): 
 
 ### Community
 
-Tutor at [Maroon Tutor Match](https://nsp.uchicago.edu/tutor-match), part of the Neighborhood Schools Program (NSP) at UChicago (2022-present)
+Tutor at [Maroon Tutor Match](https://nsp.uchicago.edu/tutor-match), part of the Neighborhood Schools Program (NSP) at UChicago (2022-2023)
 
 Recording Secretary for the Tau Beta Pi Wyoming Alpha chapter (2017-2018)
 
