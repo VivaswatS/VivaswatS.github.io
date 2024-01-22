@@ -10,8 +10,8 @@ ___
 
 ### Education  
 
-PhD, Committe on Genetics, Genomics and Systems Biology, University of Chicago (2020-present)  
-Advisor: [Jeremy Berg](http://jjbpopgen.org)/[John Novembre](http://jnpopgen.org)
+PhD, Committee on Genetics, Genomics and Systems Biology, University of Chicago (2020-present)  
+Advisor(s): [Jeremy Berg](http://jjbpopgen.org)/[John Novembre](http://jnpopgen.org)
 
 MS, Botany, University of Wyoming (2018-2020)  
 Advisor: [Alex Buerkle](http://uwyo.edu/buerkle)
@@ -26,7 +26,7 @@ Harrison JG, Calder WJ, __Shastry V__, Buerkle CA (2020)
 Dirichlet‐Multinomial modelling outperforms alternatives for analysis of microbiome and other ecological count data (published in Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/711317v3))
 
 __Shastry V__, Adams PE, Lindtke D, Mandeville EG, Parchman TL, Gompert Z, Buerkle CA (2021)  
-Model-based genotype and ancestry estimation for potential hybrids with mixed-ploidy (published in Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.31.231514v2))
+Model-based genotype and ancestry estimation for potential hybrids with mixed-ploidy (published as 'From the Cover' article in Molecular Ecology Resources, [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.07.31.231514v2))
 
 __Shastry V__, Bell K, Buerkle CA, Fordyce J, Forister M, Gompter Z, Lebeis S, Lucas L, Marion Z, Nice C (2022)
 A continental-scale survey of _Wolbachia_ infections in blue butterflies reveals evidence of interspecific transfer and invasion dynamics (published in G3:Genes|Genomes|Genetics, [preprint](https://www.authorea.com/doi/full/10.22541/au.164703040.01856976/v1))
