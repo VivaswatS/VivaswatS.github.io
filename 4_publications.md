@@ -18,7 +18,7 @@ Intern at the [Advanced Research Computing Center](https://www.uwyo.edu/arcc/): 
 
 ### Community
 
-Tutor at [Maroon Tutor Match](https://nsp.uchicago.edu/tutor-match), part of the Neighborhood Schools Program (NSP) at UChicago (2022-2023)
+Tutor at [Maroon Tutor Match](https://nsp.uchicago.edu/tutor-match), part of the Neighborhood Schools Program (NSP) at UChicago (2022-present)
 
 Recording Secretary for the Tau Beta Pi Wyoming Alpha chapter (2017-2018)
 
