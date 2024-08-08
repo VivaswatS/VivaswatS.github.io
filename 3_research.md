@@ -7,19 +7,21 @@ header-img: "img/received_1325138571544423.jpeg"
 
 ### Ongoing
 
-#### Improving DFE estimation with paired data of allele frequency and allele age
-
-(theoretical/simulations) Estimating the fitness effect of de-novo mutations is an important problem in population and evolutionary genetics. The accurate estimation of the distribution of fitness effects (DFE) is crucial in understanding a broad variety of processes, from selection shaping genetic diversity in natural populations to the evolution of complex traits in the human population. Typically, DFE estimation is done using the allele frequency information from the site frequency spectrum (SFS), but we propose using paired data of allele age and allele frequency as this gives us more information about the trajectory and selection pressure on the *de-novo* mutation. We find that using this paired data helps us estimate selection coefficients in simulated data with slightly higher certainty than using allele frequency alone, but only in some cases. More insights to be had on this front... 
-
-Poster for ProbGen 2023 can be found here  <a href="/docs/ProbGen_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>. 
-
 #### Incorporating long-distance migration events onto existing migration surfaces
 
-(empirical/methods development) As part of a summer rotation, I was involved in incorporating long-distance migration events into the existing [feems](https://github.com/NovembreLab/feems) software from the Novembre lab. This involved adding long range edges (prompted by deviations to the fit) to a graph of migration rates inferred over the populations in 2-dimensional space. This was prompted by an empirical analysis of ~300 Afro-Eurasian populations (~4k individuals) in which we find long-distance migration events from Madagascar and Papuan populations. Coincidentally, we also found that signals of archaic admixture could be captured via the proposed method in simplistic simulations. But before we can celebrate, we need to validate these findings using parallel methods of inquiry. We are also currently in the process of testing this framework with more simulations to make it more robust to spurious signals in the data. 
+(empirical/methods development) As part of a summer rotation, I was involved in incorporating long-distance migration events into the existing [FEEMS](https://github.com/NovembreLab/feems) software from the Novembre lab. This project has since blossomed into a full chapter in my thesis, with the development of a novel method called `FEEMSmix` for representing long-range genetic similarity on a background effective migration map estimated by `FEEMS`. This work follows on previous work like `TreeMix` (and, to a certain extent, `SpaceMix`) in modeling residuals from underlying fits as admixture events. 
 
 Poster for Evolution 2023 can be found here <a href="/docs/Evolution_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>. 
+Software for the methods can be cloned from here: [https://github.com/VivaswatS/feems/tree/admixture_edge](https://github.com/VivaswatS/feems/tree/admixture_edge) (*subject to change*)
 
 ### Previous 
+
+#### Improving DFE estimation with paired data of allele frequency and allele age
+
+(theoretical/simulations) Estimating the fitness effect of de-novo mutations is an important problem in population and evolutionary genetics. The accurate estimation of the distribution of fitness effects (DFE) is crucial in understanding a broad variety of processes, from selection shaping genetic diversity in natural populations to the evolution of complex traits in the human population. Typically, DFE estimation is done using the allele frequency information from the site frequency spectrum (SFS), but we propose using paired data of allele age and allele frequency as this gives us more information about the trajectory and selection pressure on the *de-novo* mutation. We find that using this paired data helps us estimate selection coefficients in simulated data with slightly higher certainty than using allele frequency alone, but only in some cases. 
+
+Poster for ProbGen 2023 can be found here  <a href="/docs/ProbGen_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>. 
+Work detailing the results can be found in this [preprint](https://doi.org/10.1101/2024.08.06.606888). 
 
 #### Estimating genotype and ancestry in hybrids of mixed-ploidy 
 
