@@ -9,18 +9,19 @@ header-img: "img/received_1325138571544423.jpeg"
 
 #### Incorporating long-distance migration events onto existing migration surfaces
 
-(empirical/methods development) As part of a summer rotation, I was involved in incorporating long-distance migration events into the existing [FEEMS](https://github.com/NovembreLab/feems) software from the Novembre lab. This project has since blossomed into a full chapter in my thesis, with the development of a novel method called `FEEMSmix` for representing long-range genetic similarity on a background effective migration map estimated by `FEEMS`. This work follows on previous work like `TreeMix` (and, to a certain extent, `SpaceMix`) in modeling residuals from underlying fits as admixture events. 
+(empirical/methods development) As part of a summer rotation, I was involved in incorporating long-distance migration events into the existing [FEEMS](https://github.com/NovembreLab/feems) software from the Novembre lab. This project has since blossomed into a full chapter in my thesis, with the development of a novel method called `FEEMSmix` for representing long-range genetic similarity on a background effective migration map estimated by `FEEMS`. This work follows on previous work like [TreeMix](https://dx.plos.org/10.1371/journal.pgen.1002967) (and, to a certain extent, [SpaceMix](https://dx.plos.org/10.1371/journal.pgen.1005703)) in modeling residuals from underlying fits as admixture events. 
 
-Poster for Evolution 2023 can be found here <a href="/docs/Evolution_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>. 
+Poster for Evolution 2023 can be found here <a href="/docs/Evolution_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>.  
 Software for the methods can be cloned from here: [https://github.com/VivaswatS/feems/tree/admixture_edge](https://github.com/VivaswatS/feems/tree/admixture_edge) (*subject to change*)
 
 ### Previous 
+
 
 #### Improving DFE estimation with paired data of allele frequency and allele age
 
 (theoretical/simulations) Estimating the fitness effect of de-novo mutations is an important problem in population and evolutionary genetics. The accurate estimation of the distribution of fitness effects (DFE) is crucial in understanding a broad variety of processes, from selection shaping genetic diversity in natural populations to the evolution of complex traits in the human population. Typically, DFE estimation is done using the allele frequency information from the site frequency spectrum (SFS), but we propose using paired data of allele age and allele frequency as this gives us more information about the trajectory and selection pressure on the *de-novo* mutation. We find that using this paired data helps us estimate selection coefficients in simulated data with slightly higher certainty than using allele frequency alone, but only in some cases. 
 
-Poster for ProbGen 2023 can be found here  <a href="/docs/ProbGen_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>. 
+Poster for ProbGen 2023 can be found here  <a href="/docs/ProbGen_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>.   
 Work detailing the results can be found in this [preprint](https://doi.org/10.1101/2024.08.06.606888). 
 
 #### Estimating genotype and ancestry in hybrids of mixed-ploidy 
