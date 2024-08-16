@@ -4,7 +4,7 @@ title: "CV"
 header-img: "img/IMG_20210410_155857.jpg"
 ---
 
-My resume can be found here <a href="/docs/resume_vshastry.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, with a brief form below.   
+My resume can be found here <a href="/docs/shastry_resume.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>, with a brief form below.   
 
 ___
 
