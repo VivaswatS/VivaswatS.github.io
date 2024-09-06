@@ -11,7 +11,7 @@ header-img: "img/received_1325138571544423.jpeg"
 
 (empirical/methods development) As part of a summer rotation, I was involved in incorporating long-distance migration events into the existing [FEEMS](https://github.com/NovembreLab/feems) software from the Novembre lab. This project has since blossomed into a full chapter in my thesis, with the development of a novel method called `FEEMSmix` for representing long-range genetic similarity on a background effective migration map estimated by `FEEMS`. This work follows on previous work like [TreeMix](https://dx.plos.org/10.1371/journal.pgen.1002967) (and, to a certain extent, [SpaceMix](https://dx.plos.org/10.1371/journal.pgen.1005703)) in modeling residuals from underlying fits as admixture events. 
 
-Poster for Evolution 2023 can be found here <a href="/docs/Evolution_2023.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>.  
+Presentation at SMBE 2024 can be found here <a href="/docs/SMBE2024.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>.  
 Software for the methods can be cloned from here: [https://github.com/VivaswatS/feems/tree/main](https://github.com/VivaswatS/feems/tree/main) (*subject to change*)
 
 #### Estimating selection on genealogies 
