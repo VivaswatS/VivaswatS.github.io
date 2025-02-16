@@ -6,9 +6,9 @@ header-img: "img/IMG_20210220_134057.jpg"
 
 ### Academic
 
-Member of the [UChicago HG/GGSB DEI Committee](https://hg-dei.bsd.uchicago.edu/) (2022-present)
+Member of the [UChicago HG/GGSB DEI Committee](https://hg-dei.bsd.uchicago.edu/) (2022-2025)
 
-Member of the UChicago computational biology outreach group: involved in developing lesson plans for introducing computational biology to middle- and high-schoolers around the Chicagoland area (2022-2023)
+Member of the [UChicago computational biology outreach](https://voices.uchicago.edu/uccombo/) group: involved in developing lesson plans for introducing computational biology to middle- and high-schoolers around the Chicagoland area (2022-2023)
 
 Member of the [UWyo Data Science Center](https://microcollaborative.atlassian.net/wiki/spaces/DSC/overview): helped other researchers write scripts for data wrangling and analysis (2018-2020)
 
