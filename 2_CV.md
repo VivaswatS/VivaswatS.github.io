@@ -10,7 +10,7 @@ ___
 
 ### Education  
 
-PhD, Committee on Genetics, Genomics and Systems Biology, University of Chicago (2020-present) 
+PhD, Committee on Genetics, Genomics and Systems Biology, University of Chicago (2020-present)  
 Advisors: [Jeremy Berg](http://jjbpopgen.org)/[John Novembre](http://jnpopgen.org)
 
 MS, Botany, University of Wyoming (2018-2020)  
