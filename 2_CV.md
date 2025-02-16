@@ -22,8 +22,11 @@ Advisor: [Suresh Muknahallipatna](http://www.uwyo.edu/electrical/faculty-staff/s
 
 ### Publications (selected, see [Google Scholar](https://scholar.google.com/citations?user=12SsLBgAAAAJ&hl=en&oi=ao))
 
+__Shastry V__, Musiani M, Novembre J (2025)
+Jointly representing long-range genetic similarity and spatially heterogeneous isolation-by-distance ([bioRxiv](https://doi.org/10.1101/2025.02.10.637386)) 
+
 __Shastry V__, Berg JJ (2024) 
-Allele ages provide limited information about the strength of negative selection ([bioRxiv](https://doi.org/10.1101/2024.08.06.606888))
+Allele ages provide limited information about the strength of negative selection (published in GENETICS, [bioRxiv](https://doi.org/10.1101/2024.08.06.606888))
 
 __Shastry V__, Bell K, Buerkle CA, Fordyce J, Forister M, Gompter Z, Lebeis S, Lucas L, Marion Z, Nice C (2022)
 A continental-scale survey of _Wolbachia_ infections in blue butterflies reveals evidence of interspecific transfer and invasion dynamics (published in G3:Genes|Genomes|Genetics, [preprint](https://www.authorea.com/doi/full/10.22541/au.164703040.01856976/v1))
