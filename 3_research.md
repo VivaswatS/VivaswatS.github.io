@@ -7,13 +7,6 @@ header-img: "img/received_1325138571544423.jpeg"
 
 ### Ongoing
 
-#### Incorporating long-distance migration events onto existing migration surfaces
-
-(empirical/methods development) As part of a summer rotation, I was involved in incorporating long-distance migration events into the existing [FEEMS](https://github.com/NovembreLab/feems) software from the Novembre lab. This project has since blossomed into a full chapter in my thesis, with the development of a novel method called `FEEMSmix` for representing long-range genetic similarity on a background effective migration map estimated by `FEEMS`. This work follows on previous work like [TreeMix](https://dx.plos.org/10.1371/journal.pgen.1002967) (and, to a certain extent, [SpaceMix](https://dx.plos.org/10.1371/journal.pgen.1005703)) in modeling residuals from underlying fits as admixture events. 
-
-Presentation at SMBE 2024 can be found here <a href="/docs/SMBE2024.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>.  
-Software for the methods can be cloned from here: [https://github.com/VivaswatS/feems/tree/main](https://github.com/VivaswatS/feems/tree/main) (*subject to change*)
-
 #### Estimating selection on genealogies 
 
 (methods development) As an extension to our previous method for computing the density on ages, we also formulate a model to infer selection on the derived allele using the estimated tree at a given site, conditional on the age of the mutation. This is very similar to [CLUES](https://doi.org/10.1371/journal.pgen.1008384) in its functionality (in fact, we observe similar error rates in simualtions), but using quite a different framework inspired by the Ancestral Selection Graph (ASG, Neuhauser & Krone 1997). This is still a work in progress, but with potential to incorporate more general demographic models like a split-population scenario with migration.  
@@ -21,6 +14,13 @@ Software for the methods can be cloned from here: [https://github.com/VivaswatS/
 Poster for ProbGen 2024 can be found here <a href="/docs/ProbGen_2024.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>. 
 
 ### Previous 
+
+#### Incorporating long-distance migration events onto existing migration surfaces
+
+(empirical/methods development) As part of a summer rotation, I was involved in incorporating long-distance migration events into the existing [FEEMS](https://github.com/NovembreLab/feems) software from the Novembre lab. This project has since blossomed into a full chapter in my thesis, with the development of a novel method called `FEEMSmix` for representing long-range genetic similarity on a background effective migration map estimated by `FEEMS`. This work follows on previous work like [TreeMix](https://dx.plos.org/10.1371/journal.pgen.1002967) (and, to a certain extent, [SpaceMix](https://dx.plos.org/10.1371/journal.pgen.1005703)) in modeling residuals from underlying fits as admixture events. 
+
+Work detailing the methods can be found in this [preprint](https://doi.org/10.1101/2025.02.10.637386). 
+Software for the methods can be cloned from here: [https://github.com/VivaswatS/feems/tree/main](https://github.com/VivaswatS/feems/tree/main) (*subject to change*)
 
 
 #### Improving DFE estimation with paired data of allele frequency and allele age
