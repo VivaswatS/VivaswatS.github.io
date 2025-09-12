@@ -13,5 +13,5 @@ gscholar_username: vivshastry
 markdown: kramdown
 highlighter: rouge
 paginate: 4
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","3_research.md","4_publications.md"]
 gems: [jekyll-paginate, jekyll-feed]
