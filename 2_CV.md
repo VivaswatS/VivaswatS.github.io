@@ -10,7 +10,7 @@ ___
 
 ### Education  
 
-PhD, Committee on Genetics, Genomics and Systems Biology, University of Chicago (2020-present)  
+PhD, Committee on Genetics, Genomics and Systems Biology, University of Chicago (2020-2025)  
 Advisors: [Jeremy Berg](http://jjbpopgen.org)/[John Novembre](http://jnpopgen.org)
 
 MS, Botany, University of Wyoming (2018-2020)  
@@ -39,7 +39,7 @@ Dirichlet‐Multinomial modelling outperforms alternatives for analysis of micro
 
 ### Software
 
-[FEEMSmix](https://github.com/VivaswatS/feems/tree/admixture_edge): extension to [FEEMS](https://github.com/NovembreLab/feems) for representing long-range genetic similarity on a background of spatially heterogeneous isolation-by-distance (*methods subject to change*)
+[FEEMSmix](https://github.com/NovembreLab/feems/): extension to `FEEMS` for representing long-range genetic similarity on a background of spatially heterogeneous isolation-by-distance
 
 [entropy](https://bitbucket.org/buerklelab/mixedploidy-entropy/src/master/): genotype and ancestry estimation for mixed-ploidy, installable through [source](https://bitbucket.org/buerklelab/mixedploidy-entropy/src/master/) or as a [conda package](https://anaconda.org/bioconda/popgen-entropy)
 
