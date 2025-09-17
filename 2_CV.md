@@ -20,10 +20,10 @@ BS, Electrical Engineering, University of Wyoming (2014-2017)
 Minor in Computational Science  
 Advisor: [Suresh Muknahallipatna](http://www.uwyo.edu/electrical/faculty-staff/suresh-muknahallipatna/)
 
-### Selected publications (see [Google Scholar](https://scholar.google.com/citations?user=12SsLBgAAAAJ&hl=en&oi=ao))
+### Selected publications (see [Google Scholar](https://scholar.google.com/citations?user=12SsLBgAAAAJ&hl=en&oi=ao) for full list)
 
 __Shastry V__, Musiani M, Novembre J (2025)  
-Jointly representing long-range genetic similarity and spatially heterogeneous isolation-by-distance (in review, [bioRxiv](https://doi.org/10.1101/2025.02.10.637386)) 
+Jointly representing long-range genetic similarity and spatially heterogeneous isolation-by-distance (published in PLoS Genetics, [bioRxiv](https://doi.org/10.1101/2025.02.10.637386)) 
 
 __Shastry V__, Berg JJ (2024)   
 Allele ages provide limited information about the strength of negative selection (published in GENETICS, [bioRxiv](https://doi.org/10.1101/2024.08.06.606888))
